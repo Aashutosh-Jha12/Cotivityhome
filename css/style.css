@@ -1,0 +1,194 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header{
+    background-color: #31006E;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    position: fixed;
+    width: 100%;
+}
+#logo{
+    width: 220px;
+}
+#menu a{
+    color: white;
+    text-decoration: none;
+    padding: 15px;
+}
+#menu li{
+    display: inline-block;
+}
+#menu{
+    list-style-type: none;
+}
+nav{
+    float: right;
+}
+.container{
+    width: 80%;
+    margin-right: auto;
+    margin-left: auto;
+}
+#intro{
+    background-color: #31006E ;
+    background-image: url(../images/banner-pattern.png);
+    background-repeat: no-repeat;
+    background-position: center right;
+    background-size: 60% auto;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+h1{
+    color: white;
+}
+#whitebox{
+background-color: white;
+width: 50%;
+padding: 20px;
+margin-top: 30px;
+}
+#whitebox small{
+    color:#7F7F7F;
+}
+#whitebox p{
+    color: red;
+}
+#whitebox h2{
+    color:#31006F;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+/* src="/images/lf-logo.svg" */
+section{
+    padding-top: 100px;
+    padding-bottom: 100px;
+;
+}
+#about p{
+    margin-bottom: 20px;
+}
+#half{
+    width: 50%;;
+}
+#about{
+    background-image: url(../images/building.png);
+    background-repeat: no-repeat;
+    background-size: auto 100%;
+    background-position: center right;
+}
+#paralex{
+    height: 400px;
+    background-image: url(../images/parallax-home.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+}
+/* font awesome */
+#vacancy h2{
+    height: 80px;
+    text-align: center;
+    font-size: 40px;
+    color: #2e3192;
+    padding: 0px 0px 20px;
+}
+#vacancy{
+   
+    background-image: url("../images/join.png");
+    margin-bottom: 80px;
+    background-repeat: no-repeat;
+   background-position: center 130%;
+   text-align: center;
+}
+#vacancy p{
+    text-align: center;
+    color: #333333;
+    padding: 0px 0px 24px;
+}
+#link1{
+
+    font-size: 24px;
+    color: #ec008c;
+    text-decoration: none;
+    padding: 10px 0px;
+}
+#img{
+    text-align: center;
+    /* margin-right: auto;
+    margin-left: auto;
+} */
+}
+
+strong{
+    font-size: 30px;
+    text-align: center;
+}
+#img p{
+    margin: 0px 0px 24px;
+    padding-top: 6px;
+}
+#img3{
+   
+    width: auto;
+  
+ 
+}
+
+.link2{
+    padding:  15px;
+    border: 1px solid #10069F;
+    text-decoration: none;
+    color:  #10069F;
+float: center;
+}
+#fourth{
+   margin-right: auto;
+   margin-left: auto;
+    height: 332px;
+    width: auto;
+    background-color: #eaeaea;
+    padding: 35px 0px 0px;
+}
+#footer{
+    margin-right: auto;
+    margin-left: auto;
+}
+#navigate{
+font-size: 22px;
+}
+.d1-element{
+    width: auto;
+    height: 19px;
+    font-size: 14px;
+    display: inline-block;
+    text-decoration: none;
+    color: #666666;
+    padding: 2px 0px;
+    margin-left: 25px;
+    margin-right: 25px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+#contact{
+font-size: 22px;
+text-align: right;
+}
+#contact strong{
+    font-size: 14px;
+}
+#contact h2{
+    font-size: 22px;
+}
+#contact p{
+    font-size: 14px;
+
+}
+#footer1 p{
+    font-size: 14px;
+    
+}
+#footer2{
+    text-align: right;
+}
